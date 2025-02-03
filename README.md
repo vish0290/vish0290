@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Vishwanath]
+# Hi there! 👋 I'm Vishwanath
 
 ## 🚀 About Me
 - 📚 I am doing research on **Generative AI**, mainly focusing on the **context window of LLMs**.
