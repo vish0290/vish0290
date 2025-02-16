@@ -22,7 +22,7 @@
 
 ## 📬 Connect with Me
 - 📧 Email: [vish2kber@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vishwanath-a-s/)
+- 🔗 LinkedIn: [linkedin.com/in/vishwanath-a-s](https://www.linkedin.com/in/vishwanath-a-s/)
 
 Let's collaborate and build something amazing! 🚀
 
